@@ -1,5 +1,5 @@
 N=int(input("enter a number on which you want to want to perform subtraction \n"))
-k=int(input("slkdjfalkjsd"))
+k=int(input("enter no of times you want to subtract 1"))
 
 i=0
 
