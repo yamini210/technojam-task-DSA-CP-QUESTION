@@ -5,6 +5,7 @@
 - How did i approach my task.
     > I know all the stuff regarding this task from my school .But I learn about github and how to create readme file and for the first time I created my github account .
 - about myself
-    > I learned python and mysql in my school and now I'm learning c lamguage in my 1st semester.Few days back i have start using hackerrank and now i'm 2 star certified in python in hackerrank .I will love to learn more by entering in this club.  
+    > I learned python and mysql in my school and now I'm learning c lamguage in my 1st semester.Few days back i have start using hackerrank and now i'm 2 star certified in python in hackerrank .I know getting 2 star is easy but it's just a beginning.I will love to learn more by entering in this club.  
+    
 
 
